@@ -1,5 +1,4 @@
 * ~// lambda style senior software engineer
 * ~// [GeoTrellis](https://github.com/locationtech/geotrellis) PL & ex. [Azavean](https://github.com/azavea)
-* ~// [Scalalaz Podcast](https://scalalaz.ru/) host since 2016
-* ~// [Scala Valentines](https://scala.love/) host 
+* ~// [FlatMappers](https://flatmappers.com/), [Scalalaz](https://scalalaz.ru/), and [Scala Valentines](https://scala.love/) podcasts host
 * ~// [https://pomadchin.com](https://pomadchin.com)
